@@ -1,0 +1,26 @@
+{
+  "sources": {
+    "total": 1252,
+    "total_size_bytes": 9715095,
+    "total_size_kb": 9487.4,
+    "date_range": {
+      "from": "2026-04-26",
+      "to": "2026-06-25"
+    }
+  },
+  "concepts": {
+    "total": 500,
+    "total_evidence": 3513,
+    "signal_range": {
+      "min": 291.7,
+      "max": 2486.8
+    },
+    "by_kind": {
+      "tag": 14,
+      "phrase": 2,
+      "section": 437,
+      "keyword": 6,
+      "source-title": 52
+    }
+  }
+}
