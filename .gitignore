@@ -1,0 +1,5 @@
+# Ignore any download scripts
+*.py
+*.sh
+.zsh*
+__pycache__/
